@@ -1,0 +1,5 @@
+ Property        Value                Unit        
+   E11     6.57213167869e-05      Stress units    
+   G12     2.01826806006e-05      Stress units    
+Total mass=None Mass units 
+processing duration 635.814999819 Seconds
